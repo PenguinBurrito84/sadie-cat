@@ -1,1 +1,2 @@
 # sadie-cat
+This was a project from The Odin Project in which I used the skills that I have been learning throughout The Odin Project to build a website landing page from start to finish. It is modeled after an example landing from The Odin Project. i added my own details of making it entirely purple (I love purple), and based it on my cat, Sadie. I used other resources to learn how to make buttons and how to make curved borders/buttons.
