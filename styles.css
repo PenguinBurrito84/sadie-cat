@@ -6,8 +6,8 @@
 /*menu section below!*/
 
 .menu-container {
-    background-color: rgb(195, 129, 239);
-    color: rgb(34, 8, 49);
+    background-color: rgb(77, 33, 107);
+    color: rgb(173, 126, 224);
     display: flex;
     justify-content: center;
     padding-top: 20px;
@@ -29,8 +29,8 @@
 /*header section below!*/
 
 .header-container {
-    background-color: rgb(195, 129, 239);
-    color:rgb(34, 8, 49);
+    background-color: rgb(77, 33, 107);
+    color:rgb(167, 127, 210);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -85,7 +85,9 @@
 .sadie {
     display: flex;
     justify-content: center;
-    background-color: rgb(140, 110, 154);
+    background-color: rgb(156, 108, 208);
+    color: rgb(47, 26, 71);
+    background-color: c;
     height: 60px;
     font-size: 45px;
     font-weight: 12px;
@@ -94,7 +96,8 @@
 .photo-grid-container {
     display: flex;
     justify-content: center;
-    background-color: rgb(140, 110, 154);
+    color: rgb(44, 24, 66);
+    background-color: rgb(156, 108, 208);
     padding-bottom: 80px;
 }
 .photo-grid {
@@ -117,7 +120,8 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: rgb(171, 119, 201);
+    color: rgb(66, 41, 87);
+    background-color: rgb(178, 142, 211);
     height: 262px;
     padding-inline: 480px;
     padding-top: 50px;
@@ -132,7 +136,7 @@
 /*product section below!*/
 
 .product-container {
-    background-color: rgb(140, 110, 154);
+    background-color: rgb(156, 108, 208);
     display: flex;
     justify-content: center;
     height: 210px;
@@ -142,8 +146,8 @@
     display: flex;
     justify-content: space-evenly;
     border-radius: 12px;
-    border: 1px solid rgb(115, 69, 162);
-    background-color: rgb(115, 69, 162);
+    border: 1px solid rgb(63, 42, 84);
+    background-color: rgb(63, 42, 84);
     width: 800px;
     height: 100px;
     padding-inline: 100px 80px;
@@ -153,9 +157,11 @@
 }
 .words strong {
     font-size: 30px;
+    color: rgb(190, 145, 224);
 }
 .words p {
     font-size: 20px;
+    color: rgb(190, 145, 224);
 }
 .join-link {
     display: flex;
@@ -163,6 +169,7 @@
     border-radius: 8px;
     border: 1px solid rgb(43, 13, 72);
     background-color: rgb(216, 187, 246);
+    color: rgb(58, 31, 77);
     width: 100px;
     height: 30px;
     padding-inline: 0px 50px;
