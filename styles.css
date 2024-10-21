@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/*menu section below!*/
+
 .menu-container {
     background-color: rgb(195, 129, 239);
     color: rgb(34, 8, 49);
@@ -23,6 +25,8 @@
     height: 80px;
     font-size: 20px;
 }
+
+/*header section below!*/
 
 .header-container {
     background-color: rgb(195, 129, 239);
@@ -76,6 +80,8 @@
     background-color:rgb(158, 135, 135);
 }
 
+/*photo section below!*/
+
 .photo-grid-container {
     display: flex;
     justify-content: center;
@@ -91,6 +97,8 @@
     align-items: center;
 }
 
+/*quote section below!*/
+
 .quote-container {
 
 }
@@ -98,12 +106,16 @@
 
 }
 
+/*product section below!*/
+
 .product-container {
 
 }
 .product {
 
 }
+
+/*footer section below!*/
 
 .footer-container {
 
