@@ -82,19 +82,33 @@
 
 /*photo section below!*/
 
+.sadie {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(140, 110, 154);
+    height: 60px;
+    font-size: 45px;
+    font-weight: 12px;
+    padding: 35px;
+}
 .photo-grid-container {
     display: flex;
     justify-content: center;
-}
-.sadie {
-    
+    background-color: rgb(140, 110, 154);
+    padding-bottom: 80px;
 }
 .photo-grid {
     width: 1500px;
     display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid rgb(39, 27, 27);
+    padding: 7px;
+    background-color:rgb(161, 117, 181);
+    margin-right: 500px;
+    margin-left: 500px;
 }
 
 /*quote section below!*/
