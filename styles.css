@@ -178,5 +178,10 @@
 /*footer section below!*/
 
 .footer-container {
-
+    display: flex;
+    justify-content: center;
+    background-color: rgb(44, 40, 49);
+    color: rgb(201, 190, 216);
+    height: 40px;
+    padding-top: 15px;
 }
