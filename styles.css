@@ -114,10 +114,19 @@
 /*quote section below!*/
 
 .quote-container {
-
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(171, 119, 201);
+    height: 262px;
+    padding-inline: 480px;
+    padding-top: 50px;
 }
 .quote {
-
+    font-size: 60px;
+}
+.quote-second {
+    font-size: 25px;
 }
 
 /*product section below!*/
