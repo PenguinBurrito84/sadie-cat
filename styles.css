@@ -35,11 +35,14 @@
     display: flex;
     justify-content:space-between;
     width: 1200px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    gap: 65px
 }
 .subheader {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 100;
 }
 .subheader strong {
@@ -48,8 +51,22 @@
     font-size: 42px;
     font-weight: 10px;
 }
-.photos {
-   
+.button-photo {
+   display: flex;
+   justify-content: flex-start;
+   border-radius: 12px;
+   border: 1px solid rgb(41, 21, 61);
+   background-color: rgb(138, 69, 175);
+   width: 120px;
+   height: 40px;
+   padding-inline: 25px 25px;
+   padding-top: 7px;
+   margin-top: 10px;
+}
+.button-photo strong {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
 }
 .main-pic {
     display: flex;
